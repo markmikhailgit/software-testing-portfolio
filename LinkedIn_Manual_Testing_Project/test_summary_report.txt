@@ -1,0 +1,15 @@
+TEST SUMMARY REPORT – LinkedIn Login & Profile Module
+
+Overall Execution:
+- Total Test Cases: 32
+- Executed: 32
+- Passed: 27
+- Failed: 5
+
+Major Findings:
+- Login error messages inconsistent.
+- Image upload validation issues.
+- Skill reorder sometimes not saving.
+
+Conclusion:
+System requires fixes before release. Retesting recommended.

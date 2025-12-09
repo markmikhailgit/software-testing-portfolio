@@ -1,0 +1,26 @@
+TEST PLAN – LinkedIn Login & Profile Module
+
+Scope:
+Manual testing for Login and Profile functionalities.
+
+Objectives:
+- Validate reliability and correctness of LinkedIn login and profile editing modules.
+- Identify defects in UI, functional flow, and validations.
+
+Modules Covered:
+1. Login (15 test cases)
+2. Profile Management (17 test cases)
+
+Entry Criteria:
+- Build deployed and stable.
+- Test data prepared.
+
+Exit Criteria:
+- All critical test cases executed.
+- No Sev-1/Sev-2 defects open.
+
+Testing Types:
+- Functional Testing
+- UI Testing
+- Validation Testing
+- Negative Testing
